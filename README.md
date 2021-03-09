@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="finix.css">
     <link rel="stylesheet" href="./responsive/responsive.css">
 
-    <title>FInix</title>
+    <title></title>
   </head>
   <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-white  sticky-top">
